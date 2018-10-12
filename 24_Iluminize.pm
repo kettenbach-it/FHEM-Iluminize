@@ -20,6 +20,9 @@
 #  Origin:
 #  https://gitlab.com/volkerkettenbach/FHEM-Iluminize
 #
+#  Support: https://forum.fhem.de/index.php/topic,92007.0.html
+#
+#
 #################################################################################################
 
 package main;
