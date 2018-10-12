@@ -110,14 +110,13 @@ sub Iluminize_Set($$)
 
     return "\"set $name\" needs at least one argument" unless(defined($cmd));
 
-
     my $command;
     if ($cmd eq "on") {
         $command = $on;
-        $hash->{STATE} = "on";
+        readingsSingleUpdate($hash, "state", "on", 1);
     } elsif($cmd eq "off") {
         $command = $off;
-        $hash->{STATE} = "off";
+        readingsSingleUpdate($hash, "state", "off", 1);
     } else {
         return SetExtensions($hash, $cmdList, $name, $cmd, @args);
     }
