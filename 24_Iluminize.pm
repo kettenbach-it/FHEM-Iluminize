@@ -164,6 +164,7 @@ sub Iluminize_Attr($$$$) {
 
 
 =pod
+
 =begin html
 
 <a name="Iluminize"></a>
@@ -178,6 +179,7 @@ sub Iluminize_Attr($$$$) {
 =end html
 
 =begin html_DE
+
 <a name="Iluminize"></a>
 <h3>Iluminize</h3>
   <br>
