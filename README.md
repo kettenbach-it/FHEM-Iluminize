@@ -16,7 +16,7 @@ These stripes can be purchased here https://www.iluminize.com/
    `apt-get install install libio-socket-inet6-perl libio-socket-timeout-perl`
 
 # Support
-
+  https://forum.fhem.de/index.php/topic,92007.0.html
 
 #  Origin:
   https://gitlab.com/volkerkettenbach/FHEM-Iluminize
