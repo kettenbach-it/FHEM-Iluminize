@@ -1,5 +1,5 @@
 <?php
-$ip="led2.wi.kettenbach-it.de";
+$ip="led3.wi.kettenbach-it.de";
 $on =	chr(hexdec("55")) . 
 	chr(hexdec("99")) . 
 	chr(hexdec("5e")) .
